@@ -25,3 +25,8 @@ How to use Picasso:
 We just need a single line of code to actually fetch our image from server.
 
 Backed files have also been included.
+
+To view the application: DO NOT REGISTER, 
+LOGIN WITH:
+getsanjeevdubey@gmail.com
+qwerty
